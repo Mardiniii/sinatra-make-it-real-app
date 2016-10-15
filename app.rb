@@ -10,3 +10,7 @@ get '/sebas' do
   erb :sebas
 end
 
+get '/daniel' do
+  @title = 'Daniel Profile'
+  erb :daniel
+end
