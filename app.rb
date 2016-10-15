@@ -9,4 +9,3 @@ get '/sebas' do
   @title = 'Sebas Profile'
   erb :sebas
 end
-
